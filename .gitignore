@@ -8,7 +8,4 @@ output_dir/
 *.pt
 *.ckpt
 *.log
-data/PALM/all_images/
-data/PALM/all_masks/
-data/PALM/train/
-data/PALM/valid/
+data/PALM/
