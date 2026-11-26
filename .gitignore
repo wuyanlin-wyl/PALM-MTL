@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.idea/
+outputs/
+output_dir/
+*.pth
+*.pt
+*.ckpt
+*.log
+data/PALM/all_images/
+data/PALM/all_masks/
+data/PALM/train/
+data/PALM/valid/
